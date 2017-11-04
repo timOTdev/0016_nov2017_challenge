@@ -22,14 +22,14 @@ Start Date: October 30th, 2017
 3. Sign up with [Hacker Rank](https://www.hackerrank.com/) and browse through challenges
 4. Read [A Developer's Guide to Interviewing](https://medium.freecodecamp.org/how-to-interview-as-a-developer-candidate-b666734f12dd)
 
-From MDN:
+### From MDN:
 1. What kind of language is JavaScript? How is it processed and by what?
 2. What two kinds of APIs are there? Can you describe each?
 3. What's the difference between server-side and client-side code?
 4. How do you reference javascript code from an html file?
 5. How do you write a single line comment and multiple line comment in JS?
 
-From Article:
+### From Article:
 - Software Engineers
 1. How do you know what to work on each day?
 2. What collaboration tools do you use?
@@ -45,14 +45,14 @@ From Article:
 2. What's your opinion on outsourcing?
 3. Would you tell me about the company culture?
 
-## questions for developers / engineers
+### questions for developers / engineers
 
 1. Can you explain the github collaboration workflow the companies uses?
 2. What is the one thing that stands out the most about working here?
 3. What front-end frameworks are used within the company? What is your preference? Do you use a different framework outside of work for personal projects?
 4. How do you approach your tasks for the day? Do your sort by priority, sla, etc?
 
-## for engineering managers
+### for engineering managers
 
 1. How do you spread tasks/tickets accross a team? What ticketing system do you use? (Examples: github issues, jira)
 2. What statistics do you look at when measuring individual performance?
@@ -66,7 +66,7 @@ From Article:
 3. [Hacker Rank](https://www.hackerrank.com/) - Do day 1 challenges
 4. [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
-From MDN:
+### From MDN:
 1. How do you generate a random number and round it off?
 2. What is concatenation?
 3. What operator do you use to show non-equality?
@@ -74,7 +74,7 @@ From MDN:
 5. Describe the components of a for loop.
 6. What does the .focus() method do?
 
-From Article:
+### From Article:
 1. Can you name two programming paradigms important for JavaScript app developers?
 2. What is functional programming?
 3. What is the difference between classical inheritance and prototypal inheritance?
@@ -92,3 +92,19 @@ From Article:
 2. Read [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
 3. [Hacker Rank](https://www.hackerrank.com/) - Do day 2 challenges
 4. [Why Hiring is So Hard in Tech](https://medium.com/javascript-scene/why-hiring-is-so-hard-in-tech-c462c3230017)
+
+### From MDN:
+1. What is hoisting and why does it matter?
+2. When you type `var myName;` what do you get when you type `myName;` afterwards?
+3. What's the different between declaring versus initializing a variable?
+4. Name 5 JavaScript reserve keywords.
+5. How do you find out what kind of value something is?
+
+### From Article:
+1. What's the number 1 thing you picked up from the article?
+ 
+# Day 4 ✔️️
+## November 4th, 2017 (Saturday)
+1. Apply to 1 job
+2. Read [Numbers and Operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
+3. [Hacker Rank](https://www.hackerrank.com/) - Do day 3 challenges
