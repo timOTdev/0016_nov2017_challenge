@@ -98,7 +98,7 @@ Start Date: October 30th, 2017
 2. When you type `var myName;` what do you get when you type `myName;` afterwards?
 3. What's the different between declaring versus initializing a variable?
 4. Name 5 JavaScript reserve keywords.
-5. How do you find out what kind of value something is?
+5. How do you find out what kind of value something is using a command?
 
 ### From Article:
 1. What's the number 1 thing you picked up from the article?
@@ -108,3 +108,11 @@ Start Date: October 30th, 2017
 1. Apply to 1 job
 2. Read [Numbers and Operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
 3. [Hacker Rank](https://www.hackerrank.com/) - Do day 3 challenges
+
+### From MDN:
+1. What is 8 % 3?
+
+# Day 5 ✔️️
+## November 5th, 2017 (Sunday)
+1. Apply to 1 job
+2. Read [Strings in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
