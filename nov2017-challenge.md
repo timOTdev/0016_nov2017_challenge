@@ -133,3 +133,9 @@ Start Date: October 30th, 2017
 2. What does `.slice(0,3)` do when ran on a string "javascript"?
 3. How do you convert a string to all upper and lower case?
 4. How would you replace java with ecma in a string of "javascript"?
+
+# Day 7 ✔️️
+## November 7th, 2017 (Tuesday)
+1. Apply to 1 job
+2. Read [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
+3. Read [We analyzed thousands of coding interviews. Here’s what we learned.](https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50)
