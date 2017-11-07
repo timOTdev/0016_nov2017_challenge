@@ -116,3 +116,20 @@ Start Date: October 30th, 2017
 ## November 5th, 2017 (Sunday)
 1. Apply to 1 job
 2. Read [Strings in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings)
+
+### From MDN:
+1. How do you you escape characters from a string?
+2. What is value coercion? 
+3. What do you get when you concatenate 'Front ' + 242?
+4. What method can you use to convert a number to a string?
+
+# Day 6 ✔️️
+## November 6th, 2017 (Monday)
+1. Apply to 1 job
+2. Read [Useful String Methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
+
+### From MDN:
+1. What does `.indexOf('script')` do when ran on a string "javascript"?
+2. What does `.slice(0,3)` do when ran on a string "javascript"?
+3. How do you convert a string to all upper and lower case?
+4. How would you replace java with ecma in a string of "javascript"?
