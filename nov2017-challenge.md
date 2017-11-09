@@ -139,3 +139,30 @@ Start Date: October 30th, 2017
 1. Apply to 1 job
 2. Read [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 3. Read [We analyzed thousands of coding interviews. Here’s what we learned.](https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50)
+
+### From MDN:
+1. What are 5 types of items you can store in an array?
+2. Are you able to mix different types in an array?
+3. How do you access items of an array within another array?
+4. What are the 4 methods to add/remove items from the start/end of arrays?
+
+### From Article:
+1. Pick the language that you are comfortable in, not the most trendiest
+2. Interview length does not matter.
+
+# Day 8 ✔️️
+## November 8th, 2017 (Wednesday)
+1. Apply to 1 job
+2. [Silly Story Generator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)
+3. [How to get hired as a junior web developer (it’s hard but you can do it!)](https://medium.freecodecamp.org/how-to-get-hired-as-a-junior-web-developer-its-hard-but-you-can-do-it-f680c20f0285)
+
+### From Article:
+1. Figure out what you want to do, not the languages you have to learn
+2. Go to meetups since there is less competition than online
+3. Show your passion about web development
+
+# Day 9 ✔️️
+## November 9th, 2017 (Thursday)
+1. Apply to 1 job
+2. [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+3. [I got the job](https://forum.freecodecamp.org/t/i-got-the-job-heres-what-ive-learned-from-the-job-hunt/137709)
