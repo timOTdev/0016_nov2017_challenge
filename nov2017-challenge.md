@@ -153,8 +153,8 @@ Start Date: October 30th, 2017
 # Day 8 ✔️️
 ## November 8th, 2017 (Wednesday)
 1. Apply to 1 job
-2. [Silly Story Generator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)
-3. [How to get hired as a junior web developer (it’s hard but you can do it!)](https://medium.freecodecamp.org/how-to-get-hired-as-a-junior-web-developer-its-hard-but-you-can-do-it-f680c20f0285)
+2. Read [Silly Story Generator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)
+3. Read [How to get hired as a junior web developer (it’s hard but you can do it!)](https://medium.freecodecamp.org/how-to-get-hired-as-a-junior-web-developer-its-hard-but-you-can-do-it-f680c20f0285)
 
 ### From Article:
 1. Figure out what you want to do, not the languages you have to learn
@@ -164,5 +164,42 @@ Start Date: October 30th, 2017
 # Day 9 ✔️️
 ## November 9th, 2017 (Thursday)
 1. Apply to 1 job
-2. [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
-3. [I got the job](https://forum.freecodecamp.org/t/i-got-the-job-heres-what-ive-learned-from-the-job-hunt/137709)
+2. Read [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+3. Read [I got the job](https://forum.freecodecamp.org/t/i-got-the-job-heres-what-ive-learned-from-the-job-hunt/137709)
+
+
+### From MDN:
+1. How does this code work? `if (x === 5 || 7 || 10 || 20) { //code}`
+2. Write this as a ternary operator?
+```js
+if (shoppingDone) { // don't need to explicitly specify '=== true'
+  var childsAllowance = 10;
+} else {
+  var childsAllowance = 5;
+}
+```
+3. What's wrong with this code?
+```js
+function setWeather() {
+  var choice = select.value;
+
+  switch (choice) {
+    case 'sunny':
+      para.textContent = 'It is nice and sunny outside today. Wear shorts! Go to the beach, or the park, and get an ice cream.';
+    case 'rainy':
+      para.textContent = 'Rain is falling outside; take a rain coat and a brolly, and don\'t stay out for too long.';
+    case 'snowing':
+      para.textContent = 'The snow is coming down — it is freezing! Best to stay in with a cup of hot chocolate, or go build a snowman.';
+    case 'overcast':
+      para.textContent = 'It isn\'t raining, but the sky is grey and gloomy; it could turn any minute, so take a rain coat just in case.';
+    default:
+      para.textContent = '';
+      break;
+  }
+}
+```
+
+# Day 10 ✔️️
+## November 10th, 2017 (Friday)
+1. Apply to 1 job
+2. Read [Looping Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
