@@ -167,6 +167,16 @@ Start Date: October 30th, 2017
 2. Read [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 3. Read [I got the job](https://forum.freecodecamp.org/t/i-got-the-job-heres-what-ive-learned-from-the-job-hunt/137709)
 
+### From Article:
+1. As long as you improve everyday, that's winning.
+2. Don't compare yourself to others.
+3. Don't rush yourself, took author over 2 years to get prepared
+4. The right time to apply is after you feel ready and have built a full-stack application
+5. Networking at in-person and online events gets you in the door quicker
+6. Put some effort in the cover letter
+7. Practice paired-programming with friends to get better
+8. Go on a lot of interviews and you will learn a lot
+9. You either win, or you learn. The only way to lose is quit.
 
 ### From MDN:
 1. How does this code work? `if (x === 5 || 7 || 10 || 20) { //code}`
@@ -207,3 +217,8 @@ function setWeather() {
 # Day 11️️️️ ✔️️
 ## November 11th, 2017 (Saturday)
 1. Apply to 1 job
+
+# Day 12️️️️ ✔️️
+## November 12th, 2017 (Sunday)
+1. Apply to 1 job
+2. Read [Reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
