@@ -203,3 +203,7 @@ function setWeather() {
 ## November 10th, 2017 (Friday)
 1. Apply to 1 job
 2. Read [Looping Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+
+# Day 11️️️️ ✔️️
+## November 11th, 2017 (Saturday)
+1. Apply to 1 job
