@@ -222,3 +222,7 @@ function setWeather() {
 ## November 12th, 2017 (Sunday)
 1. Apply to 1 job
 2. Read [Reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+
+# Day 13 ✔️️
+## November 13th, 2017 (Monday)
+1. Apply to 1 job
