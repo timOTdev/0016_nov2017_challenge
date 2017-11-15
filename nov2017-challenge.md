@@ -230,3 +230,7 @@ function setWeather() {
 # Day 14 ✔️️
 ## November 14th, 2017 (Tuesday)
 1. Apply to 1 job
+
+# Day 15 ✔️️
+## November 15th, 2017 (Wednesday)
+1. Apply to 1 job
